@@ -1,13 +1,12 @@
 # HCI-Project
 Group project for CPSC 481 (Human Computer Interactions I)
 
-#Phase 1
+Stage 1
 
-#Phase 2
+Stage 2
 
-#Phase 3
+Stage 3
 
-#Phase 4
+Stage 4
 
-#Phase 5
-
+Stage 5
