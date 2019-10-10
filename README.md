@@ -36,6 +36,8 @@ Study buddy tinder is a project that focuses on students' ability to meet with o
 
 * Given a user is signed in, allow said user to get in touch with other users in their network (same classes/faculty/etc) via direct messaging. 
 
+#### Interview Links:
+<a href="interviews/cpsc 481 stage 2 interview.docx">Interview 1</a>
 
 ## Stage 3
 
