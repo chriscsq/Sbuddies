@@ -18,8 +18,25 @@ Study buddy tinder is a project that focuses on students' ability to meet with o
 
 * To get more detailed data, we also gave a more in depth interview to see how their studying habits have changed since University. After learning a bit more, we offered these students 3 scenario cards which depicted 2 traditional scenes of finding new study partners, and one scene which involved the use of our app. We asked them what features seemed the most interesting to them, and the general consensus was the ability to build an academic social network with an interactive map appealed most of them.
 
-#### Reflection of IDEO Methods
+#### Reflection of IDEO Methods 
+For our user research methods, we chose 3 IDEO methods to gather information.
+* Surveys
+* Interviews
+* Scenario Card Testing
+
+	Using Surveys allowed to cover a broad category of students that other methods simply could not capture. Through using them we were able to elicit a large amount of data, (111 responses in fact) worth of data. Although the data may not all be incredibely in-depth, it gives us a general start location for where our potential application stands in relation to our students. 
+
+	In order to further pin-point our ideas, we used our interviews to dig to the centre of our users. Where as the Survey was a more surface level analysis, the interviews got straight into the meat of the content, asking the users for things such as their personal study habits and how they may have evolved or changed. We believe that the use of Survey and Interviews in tandem are perfect because, as previously stated, Surveys cover a large and broad category of knowledge that we need, but interviews are able to really get down to ground level and help us to understand our users eye to eye. 
+
+	Finally, using Scenario Cards we are able to show the users what our core functionality ideally would look like in practice. This in return helped us during interviews because as users could sort of have an idea of what the end product was like, they would be able to give a more informed opinion regarding the situation. 
+
+To answer a broad selection of questions we surveyed the r/UCalgary subreddit to learn more about student behaviour. Out of 111 responses, here are our findings. When asked if students prefer to study alone or in a group, an overwhelming 73.9% stated that they prefer to study alone. We also wanted to see if these students were also open to studying with other peers, and we were surprised to find that 70% of students trended towards being open towards studying with peers. Even though these students are used to studying alone, we concluded that it might not always be out of choice. We also gathered information on students’ use of technology. Firstly, we asked if the students currently use technology or social media to coordinate with peers in their class. Our results from these findings were 79.3, which displays that these students are already comfortable with using these external resources to coordinate with peers. To follow up, we found out only 52% of these students were interested in an app that helps you find other students to study with. Since our numbers led us to believe that there would be more interest, we decided that combining both scenario cards and interviews both the students and us a deeper understanding of each others goals. During our interviews, we really tried to focus on our individuals study habits were. We realized that a lot of students were interested in the social aspect of our functionalities. Upon showing our scenario card which had a rough prototype of the UI, interviewees responded well to the large map but wanted to build into the profile features more, akin to LinkedIn. Most of our results showed that students met other peers in class, or through mutual friends. This all aligned with our survey results, where people were less interested in the idea of having app that helps them meet study buddies, but they were heavily interested in studying with more peers. 
+
 <img src="images\Screen Shot 2019-10-09 at 9.31.20 PM.png">
+<img src="images\Screen Shot 2019-10-09 at 9.31.32 PM.png">
+<img src="images\Screen Shot 2019-10-09 at 9.31.46 PM.png">
+<img src="images\Screen Shot 2019-10-09 at 9.32.05 PM.png">
+<img src="images\Screen Shot 2019-10-09 at 9.32.15 PM.png">
 
 #### Task Descriptions
 * Given a user is signed in, allow said user to access their courses. Based on course selection allow the user to view or create study groups.
