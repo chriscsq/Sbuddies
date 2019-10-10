@@ -18,6 +18,21 @@ Study buddy tinder is a project that focuses on students' ability to meet with o
 
 * To get more detailed data, we also gave a more in depth interview to see how their studying habits have changed since University. After learning a bit more, we offered these students 3 scenario cards which depicted 2 traditional scenes of finding new study partners, and one scene which involved the use of our app. We asked them what features seemed the most interesting to them, and the general consensus was the ability to build an academic social network with an interactive map appealed most of them.
 
+#### Task Descriptions
+* Given a user is signed in, allow said user to access their courses. Based on course selection allow the user to view or create study groups.
+
+* Given a user is not signed in, allow user to sign into the app by providing their university email. This will give them access to features that will allow them to connect to other prospective study buddies.
+
+* Given a user is signed in, allow the user to successfully locate less busier locations to study around campus. This can be done using the in app map which shows areas where the concentration of students is high/low.
+
+* Given a user is signed in, show the user, on the map, locations for potential study groups ongoing for the courses they are enrolled in. if they are interested in any of these, they may join the study group virtually via the app or simply make their way to the location on the map and meet up with their fellow study buddies.
+
+* Given a user account that differs (Tutor/TA/etc) from the norm (Student), generate a different flow with different accessibility to features of the app. For example, allow tutors to set up open prep sessions that students from all areas can join.
+
+* Given a user is signed in, allow said user to set up filters for their study preferences (quiet area, open discussion, etc). Based on those study preferences allow the user to search through a database of other students that share similarities.
+
+* Given a user is signed in, allow said user to get in touch with other users in their network (same classes/faculty/etc) via direct messaging. 
+
 
 ## Stage 3
 
