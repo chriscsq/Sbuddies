@@ -18,6 +18,8 @@ Study buddy tinder is a project that focuses on students' ability to meet with o
 
 * To get more detailed data, we also gave a more in depth interview to see how their studying habits have changed since University. After learning a bit more, we offered these students 3 scenario cards which depicted 2 traditional scenes of finding new study partners, and one scene which involved the use of our app. We asked them what features seemed the most interesting to them, and the general consensus was the ability to build an academic social network with an interactive map appealed most of them.
 
+<img src="images\Screen Shot 2019-10-09 at 9.31.20 PM.png">
+
 #### Task Descriptions
 * Given a user is signed in, allow said user to access their courses. Based on course selection allow the user to view or create study groups.
 
