@@ -38,6 +38,9 @@ Study buddy tinder is a project that focuses on students' ability to meet with o
 
 #### Interview Links:
 <a href="interviews/cpsc 481 stage 2 interview.docx">Interview 1</a>
+<a href="Interview 1 (Chris).pdf">Interview 2</a>
+<a href="Interview 1 (Jas).pdf">Interview 3</a>
+<a href="Interview 2 (Chris).pdf">Interview 4</a>
 
 ## Stage 3
 
