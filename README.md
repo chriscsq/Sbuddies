@@ -67,7 +67,7 @@ To answer a broad selection of questions we surveyed the r/UCalgary subreddit to
 #### Summary of issues identified by task-centered walkthrough
 Through our task-centered design walkthrough we have identified a few issues with our design. We have realized that we currently do not have a way to add other users add friends unless this is done through a study group. Through this process we have discovered that we may have been neglecting the social aspect of the app. We also realized that we have a majority of our actions on the map itself, which may cause points confusion and may lead to a suboptimal user experience. Through a high fidelity prototype, we wish to explore how the actions taken on the map actually feels, and if our solution to swipe left and introduce a screen serves its purpose to declutter. 
 
-####Promising Ideas
+#### Promising Ideas
 ##### Bitmoji avatars
 Since the premise of the app is to offer a social experience in academics, using Bitmoji for profile images allows for a neutral way of displaying yourself to the world. Since they are a caricature of yourself, it aids users in finding people they’re meeting for the first time. The use of Bitmojis over profile pictures allow more privacy for users who do not wish to upload a picture of themselves, and takes away any bias people might have in finding peers to study with. Bitmojis also provide a little bit of a more fun experience for the user.
 ##### Filtering
