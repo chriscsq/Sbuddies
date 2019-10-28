@@ -64,6 +64,21 @@ To answer a broad selection of questions we surveyed the r/UCalgary subreddit to
 
 ## Stage 3
 
+#### Summary of issues identified by task-centered walkthrough
+Through our task-centered design walkthrough we have identified a few issues with our design. We have realized that we currently do not have a way to add other users add friends unless this is done through a study group. Through this process we have discovered that we may have been neglecting the social aspect of the app. We also realized that we have a majority of our actions on the map itself, which may cause points confusion and may lead to a suboptimal user experience. Through a high fidelity prototype, we wish to explore how the actions taken on the map actually feels, and if our solution to swipe left and introduce a screen serves its purpose to declutter. 
+
+####Promising Ideas
+##### Bitmoji avatars
+Since the premise of the app is to offer a social experience in academics, using Bitmoji for profile images allows for a neutral way of displaying yourself to the world. Since they are a caricature of yourself, it aids users in finding people they’re meeting for the first time. The use of Bitmojis over profile pictures allow more privacy for users who do not wish to upload a picture of themselves, and takes away any bias people might have in finding peers to study with. Bitmojis also provide a little bit of a more fun experience for the user.
+##### Filtering
+With filtering, we’ve included the ability to create entire Terms for users to filter by. If you have an active term selected as a filter, that term will be reflected in your public profile so others may also see what you’re looking to study for that term. Having the ability to create pre-set terms allows for the user to get information thats only relevant to them. If users choose not to filter by a term, they can also add classes to filter individually, or even add additional classes they wish to filter by along with their term. These filters will be applied visually to the map as well as the list view of groups which are broadcasting study sessions. 
+##### Density heat map
+As groups are studying in certain areas, members will be notified to answer a quick prompt if they wish to rate the density of the area around them. They will get options like “(a) Lots of room available (b) Little study room (c) No study room”. We’ll use this crowd sourced data gathered by members in certain areas to visualize how busy an area is on the map. Since it’s just one quick question that users have benefited from themselves and it doesn’t take much effort, students will be motivated to help each other out. 
+
+
+#### Reflection
+We opted to do sketches separately and then come together at a later time to share the sketches, so each member would have an opportunity to display their vision of what the app should look like and how it should function. Although this was good because we were able to gather a variety of ideas, finding common ground between our ideas and selecting the right idea became a difficult process. After our brainstorming session, we attempted to create a low-fi prototype that we could all agree on to display our core functions. Our ideas were a bit scattered on what we thought was core, so we decided to go back and analyze user feedback. Since we gathered feedback through surveys and interviews in Stage two, we used the data gathered to assist in creating an affinity diagram where we then listed the strengths and weaknesses of the features that people wanted. This allowed us to set our biases aside, and to focus on the features that were most strongly requested by users and relevant to our apps functionality. Once we were able to get a core idea of what features we wanted highlighted, it became easier for us to prioritize these in our interface. For future iterations, we’ll take in consideration what we learned from gathered feedback and build off the data we analyzed first rather than using them as a form of confirmation bias.
+
 ## Stage 4
 
 ## Stage 5
