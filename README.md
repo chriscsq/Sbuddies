@@ -81,4 +81,47 @@ We opted to do sketches separately and then come together at a later time to sha
 
 ## Stage 4
 
+#### Overview
+Initially we provided group 3.5 with some information about our app and gave them the initial high fidelity prototype for them to conduct a heuristic evaluation. We provided the evaluators with some knowledge to help in their evaluation of the app. After receiving the evaluation results, we then applied severity ratings to all the feedback points and after a debriefing with the team we decided to group them into three categories; Fix before stage 4 deadline, fix before stage 5 deadline, and considerations for future projects. 
+
+#### Severity
+The levels of severity go as follows:
+0 - Don’t think this is a usability problem.
+1 - Cosmetic problem
+2 - minor usability problem
+3 - major usability problem; important to fix
+4 - Usability catastrophe; must fix
+
+In some cases we had already implemented the features the evaluator was looking for, in those cases we applied the severity ratings as if we didn’t complete them. For example, an evaluator wanted a login page, which had already been implemented, in this case the severity would be 4, as it would be a major issue if the claim was true. 
+
+#### Important Problems to be fixed before stage 4 deadline
+The app should implement a Signup and Login page, this would allow for a more clear of the starting point of the app and a better flow while exploring the app. However, we have already implemented both of these pages, it seems the evaluator had missed these pages. The idea for the app is to allow the user to explore the app freely and only be required to login when they desire to use certain features.  - Severity Rating: 4
+Searching for new friends and sending friend requests to them is an important feature required in social apps. We plan on implementing this right away. - Severity Rating: 2
+In the notifications, it can be seen when a friend is broadcasting an event. The ability to join the session from that notification would very useful and would allow for higher efficiency when navigating through the app. If this would take you to an event info page, it would be very useful. We also believe it would be useful for this to be on the map page, as it would allow the user to efficiently see where the event is.  - Severity Rating: 2
+It has been suggested that the ability to invite friends to join an event would be a good feature. However, we have already implemented this, it seems it has been overlooked. When creating an event, you can invite friends. This can be seen by following the path Map → Plus symbol (bottom right of page) → Invite friends.  - Severity Rating: 2
+We are also adding the name at the top of the chat to make it more clear who you are speaking to.  - Severity Rating: 1
+The app seemed to be “boring” because of the lack of color. It seemed simple, clean, but also very plain. For this reason we have decided to add some color into the profile tab!  - Severity Rating: 1
+In the profile tab, semesters are categorized only by winter and fall, and not by year. We have decided to fix this by making the sections by title filled by user when they are creating a semester. This also improves the consistency throughout the entire app.  - Severity Rating: 2
+Through the evaluation, it was also brought to our attention that a user cannot view or edit the event they have created. To fix this, we have implemented an edit button for the event they have created. The button will be similar to the add new event button, however it will be there to edit their current event.  - Severity Rating: 3
+When you are accepting a friend request, you have to click accept and accept once again. It is suggested that we change the second “accept” to “Terry has been accepted a friend!”. We have implemented a similar solution, in which the second accept button is just a label. This also allows for a more modern UI. - Severity Rating: 2
+
+
+#### Non-functional problems to be fixed before stage 5 deadline
+When we navigate to the Broadcast new event page (Map → Plus symbol (bottom right of page)), the “Date” and “Time” sections should be reformatted as “dd/mm/yyyy” and the time as something similar instead of drop downs.   - Severity Rating: 1
+The ability to unfriend or block users will be implemented in stage 5 as it is not required for the core functionality of the app. However, it is a feature that should be implemented to allow for a higher level of user control.  - Severity Rating: 2
+Feedback suggests that the class dropdown list is confusing. It is unclear if the classes can be chosen. We can see how confusion can arise from this, so we have decided to that for stage 5, we are going to keep the expanding semesters but, we will make the classes are selectable as a filter.  - Severity Rating: 2
+When creating a new event, there is little error recognition. We plan to have an error message that tells the user that it failed to create an event if the necessary parameters are not entered. This will be implemented in stage 5.  - Severity Rating: 2
+The ability to modify the “About” section on profile is missing. We plan to implement this for our stage 5 deliverable.  - Severity Rating: 3
+We may look into implementing a dropdown menu instead of the current button when adding semesters, however, since this is again a non functional issue and more of a stylistic choice it is not necessarily implemented in stage 4.  - Severity Rating: 1
+Adding a class is currently only possible under add “add semester” button. We plan on implementing a separate “add class” button to make the feature more available.  - Severity Rating: 2
+The “Chat” icon is very similar to the friends icon used in many other apps. It would better represent a match to the real world to change the icon to a more conventional “Chat” icon. We plan on changing this to create a better match between our system and the real world, thus minimizing user confusion.  - Severity Rating: 1
+
+#### Suggestions to be taken into consideration for future projects 
+In the “Chat” page, we have two ways we can get to any chat. One is by using the sidebar, and another is by clicking on “message” on the list view. As there are two ways of reaching the same chat, it would be nice if they were ordered differently. For example, the sidebar can be organized by most recently messaged, while the list view is organized in alphabetical order. It was also suggested that it is entirely unnecessary to have both, thus we can consider removing one of them and adding in additional features using that space.  - Severity Rating: 0
+It was suggested that the sidebars both on the Map page and the Chat page should be shifted down. This would allow for better error prevention, as a user may accidentally click the volume increase/decrease buttons while reaching for the sidebar.  - Severity Rating: 0
+The ability to delete and edit messages. Although this is useful, we don't see this as a necessary feature.  - Severity Rating: 0
+Another point that was brought up in the evaluation, was that we had no help and documentation to explain what buttons can be tapped/used.  - Severity Rating: 0
+Also a suggestion we are keeping in mind is to allow the user to be able to switch between dark and light modes for the app. This follows the pattern that most current apps and operating systems are now taking. As well, this can not only be visually pleasing for those that require it but can also help in saving battery life.  - Severity Rating: 1
+Implementation of an additional screen to confirm a creation/joining of an event. This additional screen should be implemented at the center of the screen as it would allow for additional error prevention. Essentially, it would be harder to misclick something near the middle of the screen as opposed to the bottom. - Severity Rating: 0
+
 ## Stage 5
